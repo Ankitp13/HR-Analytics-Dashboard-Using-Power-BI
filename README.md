@@ -44,4 +44,5 @@ A vertical bar graph compares attrition rates across various education fields. T
 6. Education Field-wise Attrition (Donut Plot):
 A donut plot offers an alternative representation of attrition rates based on education fields. It provides a more detailed view by displaying both the overall attrition rate and the individual contribution of each education field to the attrition count.
 
+![image](https://github.com/user-attachments/assets/d0334e81-3b1f-4dce-9c47-34613f440b44)
 
